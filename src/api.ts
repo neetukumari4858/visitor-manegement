@@ -46,7 +46,7 @@ const mockAdapter: AxiosAdapter = async (config) => {
 
   if (method === "post" && url === "/auth/login") {
     return {
-      data: { email: "admin@visitorhub.com" },
+      data: { email: "admin@gmail.com" },
       status: 200,
       statusText: "OK",
       headers: {},

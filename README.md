@@ -4,7 +4,6 @@ A small visitor-management dashboard built with React, TypeScript, Redux Toolkit
 
 ## Setup and execution
 
-Requirements: Node.js 18 or newer and npm.
 
 ```bash
 npm install
