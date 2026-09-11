@@ -2,13 +2,34 @@
 
 A small visitor-management dashboard built with React, TypeScript, Redux Toolkit, Tailwind CSS, and Axios.
 
-## Setup and execution
+## Deployed Link:-
 
+https://neetu-visitortracker.netlify.app/
+
+
+## Setup and execution
 
 ```bash
 npm install
 npm start
 ```
+
+## Technology used
+
+```bash
+ReactJs
+Typescript
+Javascript
+HTML
+CSS
+Reducx toolkit
+Tailwind CSS
+Axios
+```
+
+## Recorded Video:-
+ 
+Uploading Visitor Management App Recording-compressed.mp4…
 
 ## Mock API approach
 
